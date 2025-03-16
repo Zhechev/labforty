@@ -218,4 +218,4 @@ The project follows the standard Laravel structure with additional directories:
 
 ## Author
 
-Mitko Mitkov
+Mitko Zhechev
